@@ -13,7 +13,7 @@
 
 ### [Personal Portfolio](https://yushanwang9801.github.io/)  
 `React` `HTML` `CSS` `JavaScript`  
-My comprehensive portfolio showcasing projects, technical blog posts, and photography gallery. Features responsive design and project categorization.
+My comprehensive portfolio showcasing projects, technical blog posts, and photography gallery. Features responsive design and project categorization.  
 
 ### [Red Bull Racing RB6 - ThreeJS Visualization](https://yushanwang9801.github.io/rb6_dribble)  
 `ThreeJS` `HTML` `CSS` `JavaScript`  
@@ -23,7 +23,7 @@ Interactive 3D visualization of the Formula 1 RB6 race car. Features dynamic cam
 
 ### [French Flashcard Learning Platform](https://yushanwang9801.github.io/french_flashcards)  
 `Vue` `Vite` `HTML` `CSS` `JavaScript`  
-Interactive language learning application with flashcard flipping of learning French Vocabulary.
+Interactive language learning application with flashcard flipping of learning French Vocabulary.  
 [Source Code](https://github.com/YushanWang9801/french_flashcards)|
 🔗 [Project Introduction](https://yushanwang9801.github.io/#/blog/french-flashcard-published)
 
