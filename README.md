@@ -21,7 +21,7 @@ Interactive 3D visualization of the Formula 1 RB6 race car. Features dynamic cam
 [Source Code](https://github.com/YushanWang9801/rb6_dribble)|
 🔗 [Development Blog Series](https://yushanwang9801.github.io/#/blog/rb6-dribble-part1)
 
-### [French Flashcard Learning Platform](https://yushanwang9801.github.io/french_flashcard)  
+### [French Flashcard Learning Platform](https://yushanwang9801.github.io/french_flashcards)  
 `Vue` `Vite` `HTML` `CSS` `JavaScript`  
 Interactive language learning application with flashcard flipping of learning French Vocabulary.
 [Source Code](https://github.com/YushanWang9801/french_flashcards)|
